@@ -24,4 +24,5 @@ payload:
   - '+.bingsandbox.com'
   - '+.bingvisualsearch.com'
   - '+.bingworld.com'
+  - '+.groq.com'
 
